@@ -1,6 +1,6 @@
 # ChatPDF
 
-Chat with your pdf
+Chat with your PDF
 
 
 ## Prerequisites
@@ -11,6 +11,17 @@ Chat with your pdf
 
 ## Installation
 
+Create a virtual environment
+```
+python3 -m venv venv
+```
+
+Activate the virtual environment
+```
+source venv/bin/activate
+```
+
+Install packages
 ```
 pip install -r requirements.txt
 ```
