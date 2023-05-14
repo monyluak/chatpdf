@@ -96,3 +96,6 @@ In conclusion, this code demonstrates how to build a question answering system f
 
 **Note**
 To use OpenAI's GPT-3 language model and API, you'll need an API key, which can be obtained by signing up for their API program. You should take care to keep your API key secure and not share it publicly.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
