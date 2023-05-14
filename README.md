@@ -90,11 +90,13 @@ query = input("Ask me anything? ")
 print(qa.run(query))
 ```
 
+![chatpdf](https://github.com/monyluak/chatpdf/assets/50766123/dfbb5798-3ffa-4d2f-8aa9-0f1fbee64108)
+
 ## Conclusion 
 
 In conclusion, this code demonstrates how to build a question answering system for PDF documents using natural language processing and machine learning techniques. By using OpenAI's powerful language model and FAISS for efficient indexing and retrieval, we can provide users with quick and accurate answers to their questions about PDF documents.
 
-**Note**
+**Note**:
 To use OpenAI's GPT-3 language model and API, you'll need an API key, which can be obtained by signing up for their API program. You should take care to keep your API key secure and not share it publicly.
 
 ## License
